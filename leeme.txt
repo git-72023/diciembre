@@ -1,0 +1,2 @@
+importante seguir los estandares de configuracion para el reporsitorio en githug
+tener en consideracion.
